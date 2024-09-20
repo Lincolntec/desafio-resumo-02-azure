@@ -1,4 +1,4 @@
-<img src="file:///home/lincoln/www/Dio/curso_microsft_azure/desafio-resumo-02-azure/image/cursoDioAzure.png" title="" alt="cursoDioAzure.png" width="179">
+<img src="/image/cursoDioAzure.png" title="" alt="cursoDioAzure.png" width="179">
 
 # [Dio]([DIO | Code your global future now](https://www.dio.me/en)) Desafio 02
 
