@@ -1,6 +1,6 @@
 <img src="/image/cursoDioAzure.png" title="" alt="cursoDioAzure.png" width="179">
 
-# [Dio]([DIO | Code your global future now](https://www.dio.me/en)) Desafio 02
+# ([DIO | Code your global future now](https://www.dio.me/en)) Desafio 02
 
 **Desafio DIO Formação Microsoft AZ-900 Certification**, segundo resumo sobre alta disponibilidade, escalabilidade, elasticidade, confirmidade confiabilidade, previsibilidade, segurança e governança.
 
